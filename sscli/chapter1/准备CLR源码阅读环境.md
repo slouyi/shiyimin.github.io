@@ -37,7 +37,7 @@ rem 设置当前编译和运行环境为调试环境
 env debug
 rem 编译所有的程序
 buildall
-```　
+```
 
 编译成功之后，写一个简单的C#文件，如下表：
 
@@ -51,7 +51,7 @@ public class Hello
              Console.WriteLine("Hello, sscli");
       }
 }
-```　
+```
 
 在编译CLR源码的控制台运行下面的命令编译和执行C#程序（前面执行的 env debug命令，已经自动设置好PATH环境变量，C#编译器csc.exe程序指向的是我们编译好的程序）：
 
