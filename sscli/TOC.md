@@ -7,6 +7,8 @@
 1. 准备SSCLI源码阅读环境
 1. SSCLI编译过程简介
 1. 调试SSCLI程序
+  1. 在SSCLI中调试托管代码
+  2. 调试SSCLI非托管代码
 1. 启动CLR
 
 ## SSCLI中的编译器源码
