@@ -97,7 +97,8 @@ public class stringFormat
 `cordbg stringformat.exe`
 
 cordbg运行界面如下图：
- 
+
+![](https://github.com/shiyimin/shiyimin.github.io/blob/master/images/sscli/chapter1/cordbg-interface-overview.png)
 
 与在Visual Studio这些IDE调试程序不同，cordbg一开始并不会直接运行被调试程序，而是先中断程序的执行 – 即在第15行Main函数的入口处中断，等待命令输入。这是因为需要留出时间让开发人员准备调试工作 – 如设置断点之类的。在命令行里输入“help”命令可以查看cordbg里可用的命令，下一篇文章将讲解cordbg的命令用法。
 

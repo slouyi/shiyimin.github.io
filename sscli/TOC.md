@@ -7,7 +7,7 @@
 1. 准备SSCLI源码阅读环境
 1. SSCLI编译过程简介
 1. 调试SSCLI程序
-  1. 在SSCLI中调试托管代码
+  1. [在SSCLI中调试托管代码](https://github.com/shiyimin/shiyimin.github.io/blob/master/sscli/chapter1/%E5%9C%A8SSCLI%E4%B8%AD%E8%B0%83%E8%AF%95%E6%89%98%E7%AE%A1%E4%BB%A3%E7%A0%81.md)
   2. 调试SSCLI非托管代码
 1. 启动CLR
 
