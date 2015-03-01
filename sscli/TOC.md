@@ -11,6 +11,47 @@
   2. 调试SSCLI非托管代码
 1. 启动CLR
 
+## 第二章：.NET类型系统
+
+1. .NET对象布局
+  1. Object对象布局
+  1. String对象布局
+  1. Array对象布局
+  1. 已释放的对象
+  1. Object header
+  1. Sync块
+  1. 使用sos查看对象信息
+2. .NET类型
+  1. 类型在运行时的布局
+  1. 函数表
+  1. EEClass和MethodDesc
+  1. 泛型实现
+  1. 使用sos查看类型信息
+3. 值类型
+4. 装箱和拆箱的实现
+5. Type Loader
+
+## 第三章：.NET装配件
+
+1. PE格式简介
+1. 元数据格式
+1. 元数据表类型
+1. Blob流
+1. Assembly Loader
+1. Fusion
+
+## 第三章：应用程序域
+
+## 第四章：JIT
+
+1. IL简介
+1. IL基础
+1. 用IL写程序
+1. JIT设计
+1. IL验证
+1. NGEN
+
+
 ## SSCLI中的编译器源码
 1. C#编译器
 1. MS JScript编译器
